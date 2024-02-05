@@ -1,6 +1,6 @@
 "use strict"; //treat all js code as new version
 
-let name = "john"       //string => ""
+let name1 = "john"       //string => ""
 
 let age = 25            //number (for large Number 'bigint')
 
@@ -11,3 +11,5 @@ let state;              //undefined
 let mobileNo = null     //null => standalone value
 
 //null is object
+
+//console.table([name1,age,isAvailable,mobileNo]);
