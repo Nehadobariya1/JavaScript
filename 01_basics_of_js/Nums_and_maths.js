@@ -14,7 +14,8 @@ console.log(balance.toFixed());
 const num = 123.4659
 console.log(num.toPrecision(5));
 
-const hundrade = 100000
+const hundrade = 1000000
+console.log(hundrade.toLocaleString());
 console.log(hundrade.toLocaleString('en-IN'));
 
 //*---------------------------------Maths-----------------------*
