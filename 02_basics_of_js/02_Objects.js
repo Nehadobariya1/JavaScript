@@ -31,7 +31,7 @@ User.greeting = function(){
 console.log(User.greeting());
 
 User.greeting1 = function(){
-    console.log(`Hello my dear User => ${this.name}`);
+    console.log(`Hello my dear User => ${this.name},Email is:${this.email}`);
 }
 console.log(User.greeting1());
 
