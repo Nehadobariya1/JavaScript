@@ -2,7 +2,7 @@
 
 if(2 == 2)
 {
-    console.log("Execute");   // == check both value are same or not
+    console.log("Execute");  
 }
 
 if (2 === "2")
